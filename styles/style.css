@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(6, 206, 241);
+  }
+  tml {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+   
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    /* The image used */
+    background-image: url("../images/sticker.png");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}img {
+  height: 350px;
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+  color: rgb(150, 150, 150);
+}
+tml {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+h2 {
+  font-size: 60px;
+  text-align: center;
+}
+	
+#pop {
+  font-size: 30px;
+}
